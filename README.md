@@ -1,5 +1,12 @@
 # About Me:
-Education: Graduated from Simon Fraser University.<br>Current Work: Open to new opportunities.<br>Hobbies: Enthusiast in sports, Dungeons & Dragons, and a coffee aficionado.<br>Pets: Uni, the beloved family dog.<br>Birth Era: Born in the 90s.<br>Quirky Talent: Can move earlobes.<br>Gaming Achievement: Achieved Server 1st in WoW Castle Nathria.<br>Current Obsession: Matcha almonds from Royce.<br>Biography Title: "The Manifesto."<br>Multilingual: Proficient in English and Vietnamese.<br>Residence: Vancouver, Canada.<br>Morning Routine: Breakfast includes Egg Sando’s from 7-11.<br>Motto: "Lost in translation, found in tradition."<br>Current Endeavour: Pursuing a web development course for front-end and backend expertise.<br>Passion: Enjoys both teaching and learning.
+Education: Graduated from Simon Fraser University.
+<br>Current Work: Open to new opportunities.
+<br>Biography Title: "The Manifesto."
+<br>Multilingual: Proficient in English and Vietnamese.
+<br>Residence: Vancouver, Canada.
+<br>Motto: "Lost in translation, found in tradition."
+<br>Current Endeavour: Pursuing a web development course for front-end and backend expertise.
+<br>Passion: Enjoys both teaching and learning.
 
 
 <!--  ## Socials:
@@ -13,5 +20,3 @@ Education: Graduated from Simon Fraser University.<br>Current Work: Open to new 
 ![](https://github-readme-stats.vercel.app/api?username=quyenducngo&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=quyenducngo&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quyenducngo&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
