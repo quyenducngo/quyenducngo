@@ -1,4 +1,4 @@
-# Hey!:
+# Hey! It's Jimmy
 Education: Graduated from Simon Fraser University.
 <br>Current Work: Open to new opportunities.
 <br>Biography Title: "The Manifesto."
