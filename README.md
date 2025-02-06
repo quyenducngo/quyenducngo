@@ -1,12 +1,5 @@
 # Hey! It's Jimmy
-Education: Graduated from Simon Fraser University.
-<br>Current Work: Aleo Developer Relationship Ambassador.
-<br>Biography Title: "The Manifesto."
-<br>Multilingual: Proficient in English and Vietnamese.
-<br>Residence: Vancouver, Canada.
-<br>Motto: "Lost in translation, found in tradition."
-<br>Current Finding the right Vietnamese coffee blend.
-<br>Passion: Supporting individuals through the journey of life.
+
 
 
 <!--  ## Socials:
